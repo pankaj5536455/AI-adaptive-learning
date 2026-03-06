@@ -7,7 +7,7 @@
 <!-- visibility: public -->
 <!-- END METADATA -->
 
-![Project Banner](./assets/banner.png)
+![Project Banner](./banner.png)
 
 ## 📋 Overview
 
